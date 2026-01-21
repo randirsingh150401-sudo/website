@@ -1,0 +1,1 @@
+console.log("CodeMind Landing Page Loaded");
